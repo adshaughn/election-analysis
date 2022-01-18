@@ -1,20 +1,17 @@
 ##Election Analysis
 
 #import dependencies
-
+import os
 import csv
 
 # assign a variable for the data file and open the path
+file_to_load = os.path.join("Users","aspynshaughnessy","Documents","GitHub","election-analysis","Resources", "election_results.csv")
 
-file_to_load = 'Resources/election_results.csv'
-
-# open the file and read the file
-
+# Open the election results and read the file
 with open(file_to_load) as election_data:
 
-    #To do : perform analysis
-    
-    print(election_data)
+     # To do: perform analysis.
+     print(election_data)
 
 # close the file
 
