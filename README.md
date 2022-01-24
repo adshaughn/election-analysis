@@ -33,6 +33,7 @@ The analysis of the election shows that:
 - Denver county had the largest number of votes
 
 - Results by candidate (number of votes):
+
 -- Charles Casper Stockham: 85,213
 
 -- Diana DeGette: 272,892
